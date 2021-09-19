@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+react-jobly-app/node_modules
+react-jobly-app/.pnp
+react-jobly-app/.pnp.js
+
+# testing
+react-jobly-app/coverage
+
+# production
+react-jobly-app/build
+
+# misc
+react-jobly-app/.DS_Store
+react-jobly-app/.env.local
+react-jobly-app/.env.development.local
+react-jobly-app/.env.test.local
+react-jobly-app/.env.production.local
+
+react-jobly-app/npm-debug.log*
+react-jobly-app/yarn-debug.log*
+react-jobly-app/yarn-error.log*
