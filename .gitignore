@@ -21,3 +21,6 @@ react-jobly-app/.env.production.local
 react-jobly-app/npm-debug.log*
 react-jobly-app/yarn-debug.log*
 react-jobly-app/yarn-error.log*
+
+
+backend/node_modules
